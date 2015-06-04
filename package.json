@@ -1,6 +1,6 @@
 {
   "name": "aspnet-identity-pw",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Utility for hashing and validating passwords using the default ASP.NET Identity password hash algorithm.",
   "main": "./index.js",
   "scripts": {
@@ -23,10 +23,10 @@
   },
   "homepage": "https://github.com/Syncbak-Git/aspnet-identity-pw",
   "dependencies": {
-    "deasync": "0.0.7"
+  "deasync": "0.1.x"
   },
   "devDependencies": {
-    "chai": "^1.10.0",
-    "mocha": "^2.0.1"
+    "chai": "^1.10.x",
+    "mocha": "^2.0.x"
   }
 }
