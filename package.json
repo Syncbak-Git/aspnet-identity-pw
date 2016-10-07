@@ -1,6 +1,6 @@
 {
   "name": "aspnet-identity-pw",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Utility for hashing and validating passwords using the default ASP.NET Identity password hash algorithm.",
   "main": "./index.js",
   "scripts": {
