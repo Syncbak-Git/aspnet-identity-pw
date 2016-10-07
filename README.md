@@ -38,4 +38,4 @@ Node.js package for hashing and validating passwords using the default ASP.NET I
 
 * 1.0.0 Initial release
 * 1.0.1 Updated deasync package
-* 1.0.2 Fixed crypto.pbkdf2 deprecation warning
+* 1.0.2 Fixed crypto.pbkdf2 deprecation warning (requires node >= 0.12.0)
