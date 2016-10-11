@@ -1,5 +1,7 @@
-aspnet-identity-pw
-==================
+# aspnet-identity-pw
+
+[![NPM version][npm-image]][npm-url]
+[![NPM downloads][downloads-image]][download-url]
 
 Node.js package for hashing and validating passwords using the default ASP.NET Identity password hash algorithm.
 
@@ -39,3 +41,9 @@ Node.js package for hashing and validating passwords using the default ASP.NET I
 * 1.0.0 Initial release
 * 1.0.1 Updated deasync package
 * 1.0.2 Fixed crypto.pbkdf2 deprecation warning (requires node >= 0.12.0)
+
+
+[npm-url]: https://npmjs.org/package/aspnet-identity-pw
+[download-url]: https://npmjs.org/package/aspnet-identity-pw
+[npm-image]: https://img.shields.io/npm/v/aspnet-identity-pw.svg?style=flat
+[downloads-image]: https://img.shields.io/npm/dm/aspnet-identity-pw.svg?style=flat
